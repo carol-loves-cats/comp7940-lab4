@@ -1,5 +1,6 @@
 import configparser
 import requests
+import os
 
 class HKBU_ChatGPT():
 #  def __init__(self,config_path='./config.ini'):
